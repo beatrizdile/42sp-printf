@@ -2,7 +2,7 @@
   42 Cursus
  </h1>
 <h2 align=center>
-  get_next_line
+  printf
 
   ![Printf Logo](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)
 
