@@ -8,9 +8,9 @@
 
   </h2>
 
-## Description
-
 The `ft_printf` project at 42 school is an implementation of the `printf` function in C. This project aims to recreate the functionality of the standard `printf` function, which allows formatted output to the console or other output streams.
+
+## Description
 
 The goal of this project is to deepen your understanding of variadic functions, string formatting, and low-level output mechanisms in C. By completing this project, you will gain a strong grasp of string manipulation, handling different data types, and implementing various format specifiers.
 
