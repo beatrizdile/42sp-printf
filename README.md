@@ -18,7 +18,7 @@ The `ft_printf` function takes a format string, similar to `printf`, and allows 
 
 ## Features
 
-- Support for `%c`, `%s`, `%d`, `%i`, `%u`, `%x`, `%X`, `%p`, `%f`, and more format specifiers
+- Support for `%c`, `%s`, `%d`, `%i`, `%u`, `%x`, `%X`, `%p`, and more format specifiers
 - Output formatted strings to the console or other output streams
 - Support for variable argument lists using variadic functions
 - Comprehensive error handling and support for edge cases
