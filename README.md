@@ -22,9 +22,3 @@ The `ft_printf` function takes a format string, similar to `printf`, and allows 
 - Output formatted strings to the console or other output streams
 - Support for variable argument lists using variadic functions
 - Comprehensive error handling and support for edge cases
-
-## Usage
-
-To use the `ft_printf` function in your project, follow these steps:
-
-1. Clone the repository to your local machine:
