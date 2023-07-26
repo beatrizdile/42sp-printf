@@ -3,10 +3,11 @@
  </h1>
 <h2 align=center>
   printf
+</h2>
+<h2 align=center>
 
   ![Printf Logo](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)
-
-  </h2>
+</h2>
 
 The `ft_printf` project at 42 school is an implementation of the `printf` function in C. This project aims to recreate the functionality of the standard `printf` function, which allows formatted output to the console or other output streams.
 
