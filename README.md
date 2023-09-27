@@ -6,7 +6,7 @@
 </h2>
 <h2 align=center>
 
-  ![Printf Logo](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)
+  ![Printf Logo](https://github.com/caroldaniel/caroldaniel-utils/blob/d5f77c6f6af22f7251987df80b6869ca0054f5b7/ft_printfm.png)
 </h2>
 
 The **ft_printf** project at 42 school is an implementation of the **printf** function in C. This project aims to recreate the functionality of the standard **printf** function, which allows formatted output to the console or other output streams.
